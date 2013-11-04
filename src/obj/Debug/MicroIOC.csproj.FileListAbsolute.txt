@@ -1,0 +1,12 @@
+C:\repositories\CodeBasement\src\MicroIoC\bin\Debug\MicroIOC.dll.config
+C:\repositories\CodeBasement\src\MicroIoC\bin\Debug\MicroIOC.dll
+C:\repositories\CodeBasement\src\MicroIoC\bin\Debug\MicroIOC.pdb
+C:\repositories\CodeBasement\src\MicroIoC\bin\Debug\xunit.dll
+C:\repositories\CodeBasement\src\MicroIoC\obj\Debug\ResolveAssemblyReference.cache
+C:\repositories\CodeBasement\src\MicroIoC\obj\Debug\MicroIOC.dll
+C:\repositories\CodeBasement\src\MicroIoC\obj\Debug\MicroIOC.pdb
+C:\repositories\microioc\build\MicroIOC.dll
+C:\repositories\microioc\build\MicroIOC.pdb
+C:\repositories\MicroIOC\src\obj\Debug\ResolveAssemblyReference.cache
+C:\repositories\MicroIOC\src\obj\Debug\MicroIOC.dll
+C:\repositories\MicroIOC\src\obj\Debug\MicroIOC.pdb

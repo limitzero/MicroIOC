@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	
+	<configSections>
+		<section name="micro.ioc" type="MicroIOC.Configuration.ConfigurationSectionHandler, MicroIOC"/>
+	</configSections>
+	
+	<micro.ioc>
+		<components>
+			<component id="" contract="" service="">
+				<parameters>
+					<parameter name="" value="" />
+				</parameters>
+			</component>
+		</components>
+	</micro.ioc>
+	
+</configuration>
